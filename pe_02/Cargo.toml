@@ -1,0 +1,6 @@
+[package]
+name = "pe_02"
+version = "0.1.0"
+authors = ["Marcelo Palladino <mpalladino@directtalk.com.br>"]
+
+[dependencies]
